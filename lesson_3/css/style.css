@@ -1,0 +1,15 @@
+@import url("reset.css");
+ div.list {
+  color: brown;
+ }
+
+ .page__text.text {
+  color:green;
+ }
+ 
+ .text a  {
+  color: blueviolet;
+ }
+ /*.text .link {
+  color: blue;
+ }*/
